@@ -3,19 +3,19 @@
 (鄙人又备份次)
 ## 使用时注意事项：
 - 本应用内置http_proxy服务，如果您系统中或浏览器中安装有其他代理工具，服务，插件等请暂时停用或关闭服务或卸载后使用本软件。
-- 本应用使用`gsetting`设置系统代理，所以有些Linux系统无法使用该功能，请参考[Ubuntu.md](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)手动设置系统代理。
+- 本应用使用`gsetting`设置系统代理，所以有些Linux系统无法使用该功能，请参考[Ubuntu.md](https://github.com/XmJwit/electron_ssr_backup_master/blob/master/Ubuntu.md)手动设置系统代理。
 - 火狐浏览器请注意在浏览器设置中更改代理方式为使用系统代理或手动设置。
 - Chrome浏览器默认使用系统代理
 
 ## 2019-08-05更新
 更新内容：<br>
 - 增加原作者发布的0.2.5安装包，未在release发布请访问项目文件夹[0.2.5App](https://github.com/XmJwit/electron_ssr_backup_master/tree/master/0.2.5App)<br>
-- 更新并收集issues并制成文档[issue.md](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/issue.md)<br>
+- 更新并收集issues并制成文档[issue.md](https://github.com/XmJwit/electron_ssr_backup_master/blob/master/issue.md)<br>
 - 说明issues作用<br>
 
 ## 下载
 提供0.2.6版本与0.2.5版本，建议优先使用0.2.6版本
-0.2.6下载地址见[Github release](https://github.com/qingshuisiyuan/electron-ssr-backup/releases)，对应的操作系统下载的文件为
+0.2.6下载地址见[Github release](https://github.com/XmJwit/electron_ssr_backup_master/releases)，对应的操作系统下载的文件为
 
 - Windows `electron-ssr-setup-x.x.x.exe`
 - Mac `electron-ssr-x.x.x.dmg`
@@ -23,11 +23,11 @@
 - Arch或者基于Arch的系统，下载`electron-ssr-x.x.x.pacman`
 - RedHat系列的系统，下载`electron-ssr-x.x.x.rpm`
 - Debian系列的系统，下载`electron-ssr-x.x.x.deb`
-- 其他Linux系统或者通用Linux系统可下载`electron-ssr-x.x.x.tar.gz`（不会使用.tar.gz的请自行百度）
+- 其他Linux系统或者通用Linux系统可下载`electron-ssr-x.x.x.tar.gz`（不会使用.tar.gz的请自行搜索）
 
-## Debian系列安装与配置[Ubuntu.md](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
+## Debian系列安装与配置[Ubuntu.md](https://github.com/XmJwit/electron_ssr_backup_master/blob/master/Ubuntu.md)
 
-## 收集已知问题和解决方案[issue.md](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/issue.md)
+## 收集已知问题和解决方案[issue.md](https://github.com/XmJwit/electron_ssr_backup_master/blob/master/issue.md)
 
 ## Issus
 
